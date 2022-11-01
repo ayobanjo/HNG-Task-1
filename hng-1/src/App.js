@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="app">
       <header className="profile-avatar">
-        <img id="profile__img" src="profile__img.svg" alt="profile image" />
+        <img id="profile__img" src="profile__img.svg" alt="profile" />
         <img
           id="share_btn"
           src="Avatar share button.svg"
